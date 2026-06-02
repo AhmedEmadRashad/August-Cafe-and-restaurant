@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Background circle -->
+  <circle cx="50" cy="50" r="50" fill="#1f2937"/>
+  
+  <!-- Coffee cup icon -->
+  <g transform="translate(25, 20)">
+    <!-- Cup body -->
+    <path d="M 8 8 L 12 40 Q 12 45 17 45 L 33 45 Q 38 45 38 40 L 42 8 Z" fill="none" stroke="#f9f4ee" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    
+    <!-- Cup handle -->
+    <path d="M 42 15 Q 55 15 55 30 Q 55 45 42 45" fill="none" stroke="#f9f4ee" stroke-width="2" stroke-linecap="round"/>
+    
+    <!-- Coffee inside -->
+    <ellipse cx="25" cy="38" rx="12" ry="4" fill="#8B6F47"/>
+    
+    <!-- Steam -->
+    <path d="M 18 5 Q 18 -5 20 -12" fill="none" stroke="#f9f4ee" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M 32 3 Q 32 -8 35 -15" fill="none" stroke="#f9f4ee" stroke-width="1.5" stroke-linecap="round"/>
+  </g>
+  
+  <!-- "A" for August -->
+  <text x="50" y="75" font-size="28" font-weight="bold" fill="#f9f4ee" text-anchor="middle" font-family="Arial, sans-serif">A</text>
+</svg>

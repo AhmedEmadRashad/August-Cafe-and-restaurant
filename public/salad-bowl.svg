@@ -1,0 +1,21 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="2">
+  <!-- Bowl -->
+  <path d="M 50 80 Q 50 120 100 140 Q 150 120 150 80" stroke="#696969" fill="none"/>
+  <ellipse cx="100" cy="80" rx="50" ry="12" stroke="#696969" fill="none"/>
+  
+  <!-- Lettuce -->
+  <circle cx="80" cy="100" r="15" fill="#90EE90"/>
+  <circle cx="110" cy="105" r="18" fill="#7FCD7F"/>
+  <circle cx="100" cy="95" r="12" fill="#98FB98"/>
+  
+  <!-- Tomato -->
+  <circle cx="85" cy="115" r="10" fill="#FF6347"/>
+  <circle cx="115" cy="120" r="10" fill="#FF6347"/>
+  
+  <!-- Cucumber -->
+  <ellipse cx="100" cy="125" rx="12" ry="8" fill="#228B22"/>
+  
+  <!-- Dressing -->
+  <path d="M 70 110 Q 75 105 80 108" stroke="#DAA520" fill="none" stroke-linecap="round"/>
+  <path d="M 110 110 Q 120 108 130 112" stroke="#DAA520" fill="none" stroke-linecap="round"/>
+</svg>
