@@ -40,7 +40,7 @@ export const translations = {
         "Reserve a table, ask about private events, or simply say hello. We look forward to welcoming you to August Cafe & Restaurant.",
       phone: "Phone",
       email: "Email",
-      bookOnline: "Book online",
+      bookByPhone: "Book by phone",
       footerText: "August Cafe & Restaurant — Fresh flavors, warm welcome.",
     },
     menu: {
@@ -167,7 +167,7 @@ export const translations = {
         "احجز طاولة أو اسأل عن الفعاليات الخاصة أو قل مرحبا. نتطلع لاستقبالك في كافيه وريستوران أغسطس.",
       phone: "الهاتف",
       email: "البريد الإلكتروني",
-      bookOnline: "احجز عبر الإنترنت",
+      bookByPhone: "احجز عبر الهاتف",
       footerText: "كافيه وريستوران أغسطس — نكهات طازجة، استقبال دافئ.",
     },
     menu: {

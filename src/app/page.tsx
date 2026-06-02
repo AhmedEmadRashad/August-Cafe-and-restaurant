@@ -201,7 +201,7 @@ export default function Home() {
                       <p className="font-semibold text-slate-900">
                         {t.home.phone}
                       </p>
-                      <p className="text-slate-600">(555) 012-3456</p>
+                      <p className="text-slate-600">+20 108 071 7005</p>
                     </div>
                   </div>
                 </motion.div>
@@ -212,16 +212,16 @@ export default function Home() {
                       <p className="font-semibold text-slate-900">
                         {t.home.email}
                       </p>
-                      <p className="text-slate-600">hello@augustcafe.com</p>
+                      <p className="text-slate-600">augustcafe02@gmail.com</p>
                     </div>
                   </div>
                 </motion.div>
                 <HoverScale>
                   <a
-                    href="mailto:hello@augustcafe.com"
+                    href="tel:+201080717005"
                     className="mt-4 inline-block rounded-lg bg-slate-950 px-4 py-2 text-sm font-semibold text-[#f9f4ee] transition hover:bg-slate-700"
                   >
-                    {t.home.bookOnline}
+                    {t.home.bookByPhone}
                   </a>
                 </HoverScale>
               </div>
